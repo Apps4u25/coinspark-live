@@ -1,0 +1,33 @@
+Copyright (c) 2025 coinspark
+
+CoinSpark Proprietary License
+
+All rights reserved.
+
+This software and the accompanying documentation are protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.
+
+The software is licensed, not sold. This license agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and [Your Name or Company Name] for the CoinSpark software product identified above, which includes computer software and may include associated media, printed materials, and "online" or electronic documentation ("Software Product").
+
+1. GRANT OF LICENSE. Coinspark grants you a non-exclusive, non-transferable license to use one copy of the Software Product in accordance with the terms of this Agreement and the terms of the plan you have subscribed to.
+
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
+
+(a) Restrictions on Reverse Engineering, Decompilation, and Disassembly. You may not reverse engineer, decompile, or disassemble the Software Product, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+
+(b) Separation of Components. The Software Product is licensed as a single product. Its component parts may not be separated for use on more than one computer.
+
+(c) Rental. You may not rent, lease, or lend the Software Product.
+
+(d) Transfer. You may not permanently transfer all of your rights under this Agreement.
+
+(e) Termination. Without prejudice to any other rights, [Your Name or Company Name] may terminate this Agreement if you fail to comply with the terms and conditions of this Agreement. In such event, you must destroy all copies of the Software Product and all of its component parts.
+
+3. COPYRIGHT.
+All title, including but not limited to copyrights, in and to the Software Product and any copies thereof are owned by [Your Name or Company Name] or its suppliers.
+
+4. NO WARRANTIES.
+[Your Name or Company Name] expressly disclaims any warranty for the Software Product. The Software Product is provided 'As Is' without any express or implied warranty of any kind, including but not limited to any warranties of merchantability, noninfringement, or fitness of a particular purpose.
+
+5. LIMITATION OF LIABILITY. In no event shall CoinSpark be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) rising out of 'Authorized Users' use of or inability to use the Software Product, even if [Your Name or Company Name] has been advised of the possibility of such damages.
+
+This is a standard software license template. It is strongly recommended that you consult with a legal professional to ensure it meets the specific needs and legal requirements for your business and jurisdiction.
