@@ -1,0 +1,29 @@
+# Dependencies
+/node_modules
+
+# Build output
+/dist
+
+# Log files
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+
+# Environment variables
+# This is the most important line for security!
+# It prevents your secret API keys from being uploaded to GitHub.
+.env*
+!.env.example
+
+# Editor directories and files
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS-generated files
+.DS_Store
+Thumbs.db
